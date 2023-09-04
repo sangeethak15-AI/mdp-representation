@@ -26,6 +26,7 @@ Consider in Tic-tac-toe You have to draw X in one place to win in the game
 
 ### Reward Function:
 Win +1(Reward)
+
 loss/draw 0
 
 ### Graphical Representation:
@@ -100,6 +101,8 @@ P={
 Thus a real world problem is represented as Markov Decision Problem in the following ways successfully:
 
 *Text Representation
+
 *Graphical Representation
+
 *Python Representation
 
