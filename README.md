@@ -107,8 +107,6 @@ P
 ## OUTPUT:
 ![image](https://github.com/sangeethak15-AI/mdp-representation/assets/93992063/812a1dbe-0f50-4d73-b787-10e24691cb12)
 
-
-
 ## RESULT:
 Thus a real world problem is represented as Markov Decision Problem in the following ways successfully:
 
